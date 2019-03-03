@@ -1,0 +1,7 @@
+com\crm\qa\testcases\TestClass.class
+com\crm\qa\testcases\Test1Class.class
+com\crm\qa\testcases\DisableImagesTest.class
+com\crm\qa\testcases\BrokenLinksTest.class
+com\crm\qa\testcases\RemoveSpecialCharacters.class
+com\crm\qa\testcases\WikipediaTest.class
+com\crm\qa\testcases\LoginPageTest.class
