@@ -4,6 +4,11 @@
 	<test name="Test">
 		<classes>
 			<class name="com.crm.qa.testcases.DisableImagesTest" />
+			<class name="com.crm.qa.testcases.BrokenLinksTest" />
+			<class name="com.crm.qa.testcases.LoginPageTest" />
+			<class name="com.crm.qa.testcases.Test1Class" />
+			<class name="com.crm.qa.testcases.TestClass" />
+			<class name="com.crm.qa.testcases.WikipediaTest" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
